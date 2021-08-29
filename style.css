@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 *{
-	box-shadow: border-box;
-	margin: 0;
-	padding: 0;
-	background-color:ffffff;
+box-shadow: border-box;
+margin: 0;
+padding: 0;
+background-color:ffffff;
 }
 
 body {
@@ -64,10 +64,8 @@ font-weight: 500;
 font-size: 14px;
 line-height: 20px;
 /* identical to box height, or 143% */
-
-
+	
 /* Primary / Black */
-
 color: #1A2144;
 }
 
@@ -89,13 +87,11 @@ line-height: 20px;
 
 
 /* Primary / Black */
-
 color: #1A2144;
-
 }
 
 .consultants {
-	position: absolute;
+position: absolute;
 width: 86px;
 height: 20px;
 left: 872px;
@@ -114,7 +110,6 @@ line-height: 20px;
 /* Primary / Black */
 
 color: #1A2144;
-
 }
 
 .register {
