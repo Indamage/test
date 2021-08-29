@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+	box-shadow: border-box;
+	margin: 0;
+	padding: 0;
+	background-color:ffffff;
+}
+
+body {
+position: relative;
+width: 1440px;
+height: 3274px;
+}
+
+header {
+position: absolute;
+width: 1440px;
+height: 72px;
+left: 0px;
+top: 0px;
+}
+
+li, a, button {
+	font-family: "Poppins", sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color:  #edf0f1;
+	text-decoration: none;
+}
+
+.logo {
+position: absolute;
+left: 11.46%;
+right: 84.24%;
+top: 36.11%;
+bottom: 36.11%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 20px;
+/* identical to box height, or 91% */
+
+text-align: center;
+
+/* Primary / Black */
+
+color: #1A2144;
+}
+
+.home {
+position: absolute;
+width: 42px;
+height: 20px;
+left: 676px;
+top: 26px;
+
+/* Label 3 / Poppins / 14 */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+
+/* Primary / Black */
+
+color: #1A2144;
+}
+
+.employers {
+	position: absolute;
+width: 74px;
+height: 20px;
+left: 758px;
+top: 26px;
+
+/* Label 3 / Poppins / 14 */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+
+/* Primary / Black */
+
+color: #1A2144;
+
+}
+
+.consultants {
+	position: absolute;
+width: 86px;
+height: 20px;
+left: 872px;
+top: 26px;
+
+/* Label 3 / Poppins / 14 */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+
+/* Primary / Black */
+
+color: #1A2144;
+
+}
+
+.register {
+position: absolute;
+left: 72.08%;
+right: 23.82%;
+top: 36.11%;
+bottom: 36.11%;
+
+/* CTA / Poppins / 14 */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+text-align: center;
+
+/* Primary / Blue */
+
+color: #4B42E5;
+}
+
+.rectangle {
+	position: absolute;
+	left: 78.96%;
+	right: 11.39%;
+	top: 16.67%;
+	bottom: 16.67%;	
+	background: #4B42E5;
+	border-radius: 4px;
+}
+
+.contact {
+	position: absolute;
+	left: 81.74%;
+	right: 14.17%;
+	top: 36.11%;
+	bottom: 36.11%;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px;
+	/* identical to box height, or 143% */
+	text-align: center;
+	/* Primary / White */
+	color: #FFFFFF;
+}
+
+
+
+
